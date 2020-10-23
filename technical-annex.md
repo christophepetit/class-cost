@@ -526,7 +526,9 @@ TODO: later
 - book
 - EFD extension
 - classpol/modpol database
-- security whitepaper on SIKE or CSIDH?
+
+Security whitepaper on isogeny-based protocols. This deliverable will summarize the state of knowledge on the security of isogeny-based protocols. It will start with a presentation of all cryptographic assumptions proposed in the area and how they relate to each other. Then it will describe existing classical and quantum algorithms to solve these problems and the concrete impact of these algorithms on protocols. It will conclude with recommendations for practitioners (i.e. how to choose parameters in an implementation), protocol designers (which assumptions to use) and cryptanalysts (interesting open problems to address).
+
 
 #### 4.1.3	Risk analysis and Contingency Plans
 #### 4.1.4	GANTT Diagram
